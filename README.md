@@ -1,4 +1,4 @@
-# Civil Procedure
+# eet
 
 This static site belongs to the Ethical and Equitable Technology student organization (eet) at CUNY School of Law.
 
