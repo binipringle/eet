@@ -1,7 +1,7 @@
 # Built with Jekyll 3.6.0
 
 # Setupš
-title:               'ethical and equitable technology (eet)'
+title:               'ethical and equitable technology'
 tagline:             'a CUNY School of Law student organization'
 description:         ' '
 url:                 'https://github.com/binipringle'
@@ -14,7 +14,7 @@ author:
   email:             sabina.pringle@gmail.com
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
-color-scheme: red
+color-scheme: brown
 
 # Permalinks
 permalink: pretty
