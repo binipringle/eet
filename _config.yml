@@ -1,11 +1,11 @@
 # Built with Jekyll 3.6.0
 
 # Setupš
-title:               'Civil Procedure'
-tagline:             'class notes summer 2021'
-description:         'This is an experimental way of organizing class notes.'
+title:               'ethical and equitable technology (eet)'
+tagline:             'a CUNY School of Law student organization'
+description:         ' '
 url:                 'https://github.com/binipringle'
-baseurl:             '/civilprocedure'
+baseurl:             '/eet'
 
 # About/contact
 author:
@@ -14,7 +14,7 @@ author:
   email:             sabina.pringle@gmail.com
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
-color-scheme: cyan
+color-scheme: red
 
 # Permalinks
 permalink: pretty
