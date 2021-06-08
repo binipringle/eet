@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: Templates
+title: Toolkits
 author:
 editor: Sabina Pringle
 rights:
@@ -9,6 +9,6 @@ toc:
 
 ---
 
-This is where templates will go
+Toolkits will go here
 
-___
+---

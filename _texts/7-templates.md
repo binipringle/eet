@@ -1,13 +1,14 @@
 ---
 layout: narrative
-title: News
+title: Templates
 author:
 editor: Sabina Pringle
+rights:
 source:
 toc:
 
 ---
 
-This page is for newsworthy news. 
+This is where useful templates will go
 
----
+___

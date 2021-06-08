@@ -16,7 +16,7 @@ This is a footnote [^1]
 
 The text files on this site are written in kramdown. The great thing about kramdown is that I can write human readable text. kramdown (sic, not Kramdown or KramDown, just kramdown) is a free MIT-licensed Ruby library for parsing and converting a superset of Markdown. It is completely written in Ruby, supports standard Markdown (with some minor modifications) and various extensions that have been made popular by the PHP Markdown Extra package and Maruku.
 
-Sometimes I want to do something I haven't figured out how to do with kramdown (this has often been because I didn't research enough - kramdown has excellent documentation). kramdown supports HTML, so I can use HTML. 
+Sometimes I want to do something I haven't figured out how to do with kramdown (this has often been because I didn't research enough - kramdown has excellent documentation). kramdown supports HTML, so I can use HTML (it should be noted that I don't need to use HTML for nesting because I can use Ed's poem layout which nests beautifully [I hadn't realized this when I started nesting with HTML] [in any case it's nice to know it can be done both ways]).
 
 <p style="margin-left:10%; margin-right:10%;">This is to see what a little HTML can do</p>
 

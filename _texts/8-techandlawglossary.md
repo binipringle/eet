@@ -1,11 +1,11 @@
 ---
 layout: narrative
-title: Section Seven
+title: Glossary
 author:
 editor: Sabina Pringle
 source:
 ---
 
-This is section seven.
+A glossary of technical and legal terms will go here
 
 ---
