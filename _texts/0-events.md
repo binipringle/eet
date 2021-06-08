@@ -9,12 +9,8 @@ toc:
 
 ---
 
-Events organized by eet will be listed here
-
----
-
 ## August 2021
 
-No events planned yet for August. Stay posted. 
+No events planned yet for August. Stay posted.
 
 ---
