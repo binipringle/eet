@@ -8,7 +8,7 @@ toc:
 
 ---
 
-eet uses the World Wide Web Consortium’s [Web Content Accessibility Guidelines (WCAG) Version 2.1](https://www.w3.org/WAI/standards-guidelines/wcag/) AA conformance level as its accessibility standard. We look forward to adopting [WCAG 2.2.](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-22/) when it comes out in 2021.
+eet uses the World Wide Web Consortium’s [Web Content Accessibility Guidelines (WCAG) Version 2.1](https://www.w3.org/WAI/standards-guidelines/wcag/) AA conformance level as its accessibility standard. We look forward to using [WCAG 2.2.](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-22/) when it comes out in 2021.
 
 CUNY's [IT accessibility](https://www.cuny.edu/accessibility/) website provides lots of resources and information on technology accessibility.
 
